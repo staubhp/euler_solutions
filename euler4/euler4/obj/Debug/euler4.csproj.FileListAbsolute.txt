@@ -1,0 +1,6 @@
+C:\Users\jetstream asus\Documents\GitHub\euler_solutions\euler4\euler4\bin\Debug\euler4.exe.config
+C:\Users\jetstream asus\Documents\GitHub\euler_solutions\euler4\euler4\obj\Debug\euler4.csprojResolveAssemblyReference.cache
+C:\Users\jetstream asus\Documents\GitHub\euler_solutions\euler4\euler4\bin\Debug\euler4.exe
+C:\Users\jetstream asus\Documents\GitHub\euler_solutions\euler4\euler4\bin\Debug\euler4.pdb
+C:\Users\jetstream asus\Documents\GitHub\euler_solutions\euler4\euler4\obj\Debug\euler4.exe
+C:\Users\jetstream asus\Documents\GitHub\euler_solutions\euler4\euler4\obj\Debug\euler4.pdb
